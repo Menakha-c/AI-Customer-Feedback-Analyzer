@@ -79,13 +79,13 @@ Dataset Columns:
 
 > Add your screenshot here after uploading.
 
-![Dashboard](Screenshots/dashboardpage1.png)
+![Dashboard](Screenshots/dashboardpage2.png)
 
 ### AI Insights
 
 > Add your screenshot here after uploading.
 
-![AI Insights](Screenshots/dashboardpage2.png)
+![AI Insights](Screenshots/dashboardpage1.png)
 
 ---
 
