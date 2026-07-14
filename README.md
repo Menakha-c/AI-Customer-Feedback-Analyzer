@@ -79,13 +79,13 @@ Dataset Columns:
 
 > Add your screenshot here after uploading.
 
-![Dashboard](screenshots/dashboardpage1.png)
+![Dashboard](Screenshots/dashboardpage1.png)
 
 ### AI Insights
 
 > Add your screenshot here after uploading.
 
-![AI Insights](screenshots/dashboardpage2.png)
+![AI Insights](Screenshots/dashboardpage2.png)
 
 ---
 
@@ -107,8 +107,8 @@ AI-Customer-Feedback-Analyzer/
 │   └── AI_Customer_Feedback_Analyzer.pbix
 │
 ├── screenshots/
-│   ├── dashboard_page1.png
-│   └── dashboard_page2.png
+│   ├── dashboardpage1.png
+│   └── dashboardpage2.png
 │
 ├── README.md
 └── requirements.txt
